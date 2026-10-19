@@ -33,6 +33,8 @@ El sistema utiliza dos microcontroladores para separar las tareas de control e i
    - Recibe datos mediante **ESP-NOW**.
    - Muestra la información y recibe comandos desde la pantalla **Nextion (UART)**.
    - Publica datos a la nube en **Ubidots** y dashboard en **Node-RED** vía **WiFi / MQTT**.
+  
+   - https://drive.google.com/file/d/1de_QhfY7tO_Ukbk7hHV6DqTn-4Afu19-/view
      
 ---
 
